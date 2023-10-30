@@ -4,7 +4,7 @@ Ce projet s'inscrit dans le contexte du module HAI819 - Moteur de jeux en M1 IMA
 
 Le but : Réaliser un moteur pour un jeu de type platformer
 
-On a donc crée un niveau avec plusieurs mécaniques (on a des blocs qui ralentissent, qui augmentent la vitesse, etc..)
+On a donc crée un niveau avec plusieurs mécaniques (on a des blocs qui ralentissent, qui augmentent la vitesse, on a un pouvoir qui permet de lancer des boules de feu, etc..)
 
 ![image](https://github.com/LeaSerrano/ProjetMoteur/assets/113998552/e0c4ceb6-d768-44b4-83d2-f442f0e66185)
 
