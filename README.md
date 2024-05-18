@@ -1,4 +1,4 @@
-# Projet moteur de jeu
+# Projet moteur de jeux
 
 [FR]
 
